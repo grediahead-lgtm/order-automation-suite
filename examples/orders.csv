@@ -1,0 +1,7 @@
+order_id,customer_name,phone,city,address,sku,qty
+1001,Test Customer One,050 000 00 01,Kyiv,"Test St 1, apt 1",TOY-01,2
+1001,Test Customer One,050 000 00 01,Kyiv,"Test St 1, apt 1",BED-02,1
+1002,Test Customer Two,380500000002,Lviv,Test Ave 2,TOY-01,1
+1003,Test Customer Three,12345,Odesa,Test Rd 3,BED-02,1
+1004,Test Customer Four,0500000004,Dnipro,Test Ln 4,XXX-99,3
+1005,,0500000005,Kharkiv,Test Sq 5,TOY-01,0

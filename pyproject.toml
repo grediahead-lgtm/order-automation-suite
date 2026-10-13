@@ -1,0 +1,16 @@
+[project]
+name = "order-automation-suite"
+version = "0.1.0"
+description = "Turns a shop's order export (CSV) into checked orders, supplier messages and customer confirmations, with a row-by-row problem report. Standard library only."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Dmytro Grechyshchev" }]
+classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

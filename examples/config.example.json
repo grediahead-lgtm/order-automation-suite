@@ -1,0 +1,9 @@
+{
+  "currency": "UAH",
+  "require_address": true,
+  "texts": {
+    "supplier_head": "Order for {supplier}: {count} order(s). Please confirm availability and the total.",
+    "supplier_cost": "Cost of goods: {cost}",
+    "customer": "Hello, {name}! Your order #{order_id} is accepted:\n{lines}\nTotal: {total} {currency}. We will contact you about delivery."
+  }
+}
